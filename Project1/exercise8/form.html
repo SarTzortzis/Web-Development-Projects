@@ -1,0 +1,181 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+        <link rel="stylesheet" href="styles.css">
+        <title>Sarantos Tzortzis-3170157</title>
+        
+    </head>
+
+    <body>
+        <nav>
+            <header>
+                <ul>
+              <li> <a href="register.html"><i class="fas fa-chevron-left"></i></a></li>
+              <li> <h1 class="logo"> <a href="index.html"> <span>I</span> Blog </a></h1></li>
+              <li> <a href=""></a></li>
+                </ul>
+            </header>
+        <form class="ex8-form">
+            <label class="reg-label" for="name">Name: </label>
+            <input type="text" placeholder="Name" class="form-input" name="name" id="name" required="required">
+
+            <label class="reg-label" for="surname">Surname: </label>
+            <input type="text" placeholder="Surname" class="form-input" name="surname" id="surname" 
+            maxlength="15" required>
+
+            <label class="reg-label" for="username">Username: </label>
+            <input type="text" placeholder="Username" class="form-input" name="username" id="username" 
+            maxlength="15" pattern="^[a-zA-Z0-9]{8,}"required>
+
+            <label class="reg-label" for="email">Email: </label>
+            <input type="email" placeholder="example@example.com" class="form-input" name="email" id="email" 
+            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required>
+
+            <label class="reg-label" for="password">Password: </label>
+            <input type="password" placeholder="Password" class="form-input" name="password" id="password" 
+            pattern=".{8,}" maxlength="25"  required>
+
+            <label class="reg-label" for="confirmPass">Confirm Password: </label>
+            <input type="password" placeholder="Confirm Password" class="form-input" name="confirmPass" id="confirmPass" 
+             maxlength="25" required>
+
+            <label class="reg-label" for="telephone">Mobile: </label>
+            <input type="tel" pattern="\d{3,}"
+            placeholder="69xxxxxxxx" class="form-input" name="telephone" 
+            id="telephone" required>
+
+            <div class="bday">
+                <label class="reg-label" for="bday">Birthday: </label>
+                <input class="birthday" type="date" placeholder="Birthday" class="form-input" name="bday" id="bday" required>
+            </div>
+
+            <label class="reg-label" for="country">Country: </label>
+            <input type="text" placeholder="Greece" class="form-input" name="country" id="country" 
+            list="countries" autocomplete="on" required>
+            <datalist id="countries">
+                    <option value="Austria">  
+                    <option value="Armenia">
+                    <option value="China">
+                    <option value="Germany">
+                    <option value="Greece">
+                    <option value="Italy">
+                    <option value="India">
+                    <option value="Malaysia">  
+                    <option value="Finland">               
+            </datalist>
+            <label class="reg-label" for="city">City: </label>
+            <input type="text" placeholder="Athens" class="form-input" name="city" id="city" required>
+
+            <label class="reg-label" for="address">Address: </label>
+            <input type="text" placeholder="Patision 76, 135-56" class="form-input" name="address" id="address" required>
+
+       <div class="ex8-questions">
+            <fieldset class="question-field">
+                <legend class="ft">Questionnaire</legend>
+                <h5 class="question firstQ">1) Gender:</h5>
+                    <input type="radio" value="male" name="gender" id="male">
+                    <label for="male">Male</label>
+                    <br>
+                    <input type="radio" value="female" name="gender" id="female">
+                    <label for="female">Female</label>
+                <h5 class="question">2) How many hours do you spend on the internet daily?</h5>
+                    <input type="radio"  type="radio" name="hi" id="hi-a">
+                    <label for="hi-a">1-3</label>
+                    <br>
+                    <input type="radio"  type="radio" name="hi" id="hi-b">
+                    <label for="hi-b">4-6</label>                   
+                    <br>
+                    <input type="radio"  type="radio" name="hi" id="hi-c">
+                    <label for="hi-c">7+</label>
+                <h5 class="question">3) How often do you read articles online?</h5>
+                    <input type="radio"  name="ra" id="ra-a">
+                    <label for="ra-a">Never</label>
+                    <br>
+                    <input type="radio"  name="ra" id="ra-b">
+                    <label for="ra-b">Sometimes</label>               
+                    <br>
+                    <input type="radio"  name="ra" id="ra-c">
+                    <label for="ra-c">Daily</label>
+                <h5 class="question">4)  Which topics do you prefer?</h5>
+                    <input  type="checkbox"  name="topic" id="topc-a">
+                    <label for="topic-a">Science</label>
+                    <br>
+                    <input type="checkbox"  name="topic" id="topic-b">
+                    <label for="topic-b">Technology</label>               
+                    <br>
+                    <input type="checkbox"  name="topic" id="topic-c">
+                    <label for="topic-c">Sport</label>
+                <h5 class="question">5) Would you pay for a subscription to a blog website?</h5>
+                    <input type="radio"  name="pay" id="pay-a">
+                    <label for="pay-a">Yes</label>
+                    <br>
+                    <input type="radio"  name="pay" id="pay-b">
+                    <label for="pay-b">No</label> 
+                <h5 class="question">6) How much would you pay for a subscription to a blog website?</h5>
+                    <input type="radio"  name="amountp" id="amountp-a">
+                    <label for="amountp-a">0</label>
+                    <br>
+                    <input type="radio"  name="amountp" id="amountp-b">
+                    <label for="amountp-b">1-3</label>  
+                    <br>
+                    <input type="radio"  name="amountp" id="amountp-c">
+                    <label for="amountp-c">3-5</label> 
+                <h5 class="question">7) In which language would you like to read articles?</h5> 
+                    <input type="radio"  name="lang" id="lang-a">
+                    <label for="lang-a">English</label>
+                    <br>
+                    <input type="radio"  name="lang" id="lang-b">
+                    <label for="lang-b">Translated to my language</label>  
+                    <br>
+                    <input type="radio"  name="lang" id="lang-c">
+                    <label for="lang-c">I don't mind</label>  
+                <h5 class="question">8) Would you like to have the opportunity to download articles?</h5> 
+                    <input type="radio"  name="download" id="download-a">
+                    <label for="download-a">Yes</label>
+                    <br>
+                    <input type="radio"  name="download" id="download-b">
+                    <label for="download-b">No</label>  
+                    <br>
+                    <input type="radio"  name="download" id="download-c">
+                    <label for="download-c">I don't mind</label>
+                <h5 class="question">9) How many hours per week are you programming?</h5>                                      
+                    <input type="radio"  name="programing" id="programming-a">
+                    <label for="programming-a">1-4</label>
+                    <br>
+                    <input type="radio"  name="programming" id="programming-b">
+                    <label for="programming-b">5-8</label>  
+                    <br>
+                    <input type="radio"  name="programming" id="programming-c">
+                    <label for="porgamming-c">9+</label>
+                    <br>
+                    <input type="radio"  name="programming" id="programming-d">
+                    <label for="porgamming-d">I don't do programming at all</label>
+                <h5 class="question">10) What is your favourite programing language?</h5>               
+                    <input type="radio"  name="PL" id="PL-a">
+                    <label for="PL-a">Python</label>
+                    <br>
+                    <input type="radio"  name="PL" id="PL-b">
+                    <label for="PL-b">Java</label>  
+                    <br>
+                    <input type="radio"  name="PL" id="PL-c">
+                    <label for="PL-c">Javascript</label>
+                    <br>
+                    <input type="radio"  name="PL" id="PL-d">
+                    <label for="PL-d">C++</label>
+                    <br>
+                    <input type="radio"  name="PL" id="PL-e">
+                    <label for="PL-e">None of the above</label>
+                    <br>
+                    <label class="text-label"for="review">11) Leave a review: </label>
+                    <textarea placeholder="Write a review..." id="review" name="review" rows="4" cols="50" >  </textarea> 
+
+            </div>                                                                                                                                                                                                                                                                                                                                                                                   
+        </fieldset>
+            <input type="submit" value="Submit" class="form-submit-btn">
+
+        </form>
+    </body>
+    <script  type="text/Javascript" src="validation.js"></script>
+</html>
