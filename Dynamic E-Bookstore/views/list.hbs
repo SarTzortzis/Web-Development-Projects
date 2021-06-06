@@ -1,0 +1,57 @@
+{{#if works}}
+<form >
+    <header class="myList-header">
+        <input type="text" class="myList-user" name="search" id="search" placeholder="Search...">
+    </header>
+</form>
+
+<section class="books-content">
+     
+        {{#each works}}
+            <article class="book">
+                <header class="book-header">
+                    <p class="book-author">
+                        <span class="high">Author: </span>
+                        <p class="authorName">{{this._author}}</p>
+                    </p>
+                    <button class="book-btn-edit" onclick="location.href='/edit/{{this._id}}' "><i class="fas fa-edit fa-2x"></i></button>
+                    <button class="book-btn-delete-list"><i class="fas fa-minus fa-2x"></i></button>
+                    
+                </header>
+                
+                <div class="book-body">
+                    <p class="book-title">
+                        <span class="high">Title: </span>
+                        <p class="bookName">{{this._title}}</p>
+
+                        {{#if this._review}}
+                                <span class="high">Review: </span>
+                                <p class="Comments">{{this._review}}</p>            
+
+                        {{else}}
+                        <span class="high">Review: </span>
+                        <p class="Comments">Not reviewed yet.</p>
+
+                        {{/if}}                  
+                    </p>
+                </div>
+
+                <footer class="book-footer">
+                   <!-- <input class="book-comment" placeholder="comment">-->
+                   <p class="book-id">
+                       <span class="high">ID: </span>
+                       <p class="bookId">{{this._id}}</p>
+                    </p>
+                </footer>
+
+            </article>
+                     
+        {{/each}}                                          
+</section>
+{{else}}
+    <div class="empty">
+        <h1>Please add something to your list first.</h1>
+        <img src="../public/images/empty.png">
+    </div>
+        
+{{/if}}
