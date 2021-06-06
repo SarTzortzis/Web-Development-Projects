@@ -1,0 +1,35 @@
+<fieldset class="edit-field">
+    <legend class="ft">Edit Preferences for ID:</legend>
+<form class="form" method="POST" action="/edited" autocomplete="off" >
+   
+   <div class="form__item">
+    <label for="id"class="form__label">ID:</label>
+     <input class="form__input" type="text" id="id" name="id" value={{book._id}} readonly><br><br>
+   </div>
+
+  <div class="form__item">
+    <label for="authorname" class="form__label">Author Name</label>
+    <input type="text" class="form__input" name="authorname" id="authorname" placeholder="{{book._author}} ">
+  </div>
+
+  <div class="form__item">
+    <label for="titlename" class="form__label">Book Title</label>
+    <input type="text" class="form__input" name="titlename" id="titlename" placeholder="{{book._title}}">
+  </div>
+   
+  <div class="form__item">
+    <label for="review" class="form__label">Leave a review</label>
+    {{#if book._review}}
+        <textarea maxlength="500" class="form__input" name="review" id="review" placeholder="Previous review : {{book._review}}"></textarea>  
+    {{else}}
+        <textarea maxlength="500" class="form__input" name="review" id="review" placeholder="Write a review..."></textarea>  
+
+    {{/if}}                  
+  </div>
+
+  <div class="form__item">
+    <button class="form__btn" type="submit">Save</button>
+  </div>
+  
+</form>
+</fieldset>
