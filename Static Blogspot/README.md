@@ -31,10 +31,9 @@ Articles Page:<br/><br/>
 
 Articles Mobile Size:<br/><br/>
 ![](previewImages/10th.png)<br/><br/>
-
-External Articles:<br/><br/>
 ![](previewImages/11th.png)<br/><br/>
 
+External Articles:<br/><br/>
 ![](previewImages/9th.png)<br/><br/>
 
 
