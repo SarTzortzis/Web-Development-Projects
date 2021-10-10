@@ -7,21 +7,32 @@ Indludes:<br/>
   Animations on hover ✔️<br/>
   
   <br/><br/>
-Index:<br/>
-![](previewImages/1st.png)<br/>
-Index Light Mode:
-![](previewImages/2nd.png)<br/>
-Index Hover:
-![](previewImages/3rd.png)<br/>
-Index Hover Light Mode:
-![](previewImages/4th.png)<br/>
-Index Medium Size:
-![](previewImages/5th.png)<br/>
-Index Mobile Size:
-![](previewImages/6th.png)<br/>
-![](previewImages/7th.png)<br/>
-![](previewImages/8th.png)<br/>
-![](previewImages/10th.png)<br/>
-![](previewImages/11th.png)<br/>
-![](previewImages/9th.png)<br/>
+Index:<br/><br/>
+![](previewImages/1st.png)<br/><br/>
+
+Index Light Mode:<br/><br/>
+![](previewImages/2nd.png)<br/><br/>
+
+Index Hover:<br/><br/>
+![](previewImages/3rd.png)<br/><br/>
+
+Index Hover Light Mode:<br/><br/>
+![](previewImages/4th.png)<br/><br/>
+
+Index Medium Size:<br/><br/>
+![](previewImages/5th.png)<br/><br/>
+
+Index Mobile Size:<br/><br/>
+![](previewImages/6th.png)<br/><br/>
+
+![](previewImages/7th.png)<br/><br/>
+
+![](previewImages/8th.png)<br/><br/>
+
+![](previewImages/10th.png)<br/><br/>
+
+![](previewImages/11th.png)<br/><br/>
+
+![](previewImages/9th.png)<br/><br/>
+
 
