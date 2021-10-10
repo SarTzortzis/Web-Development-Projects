@@ -1,6 +1,6 @@
 Responsive Blogspot Template with Modern Index Design.
 
-Indludes:<br/>
+
   Light/Dark Mode ✔️ <br/>
   Responsive for Tablets ✔️<br/>
   Responsive for Mobiles ✔️ <br/>
