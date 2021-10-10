@@ -2,8 +2,8 @@ Responsive Blogspot Template with Modern Index Design.
 
 Indludes:
   Light/Dark Mode ✔️
-  Responsive for Tablets ✔️
-  Responsive for Mobiles ✔️
+  Responsive for Tablets ✔️ \n
+  Responsive for Mobiles ✔️ \n
   Animations on hover ✔️
 
 ![](previewImages/1st.png)
@@ -14,6 +14,7 @@ Indludes:
 ![](previewImages/6th.png)
 ![](previewImages/7th.png)
 ![](previewImages/8th.png)
-![](previewImages/9th.png)
 ![](previewImages/10th.png)
 ![](previewImages/11th.png)
+![](previewImages/9th.png)
+
