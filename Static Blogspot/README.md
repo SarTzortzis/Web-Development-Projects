@@ -25,10 +25,11 @@ Index Medium Size:<br/><br/>
 Index Mobile Size:<br/><br/>
 ![](previewImages/6th.png)<br/><br/>
 
-![](previewImages/7th.png)<br/><br/>
-
+Articles Page:
+![](previewImages/7th.png)
 ![](previewImages/8th.png)<br/><br/>
 
+Articles Mobile Size:
 ![](previewImages/10th.png)<br/><br/>
 
 ![](previewImages/11th.png)<br/><br/>
