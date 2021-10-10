@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name ="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://kit.fontawesome.com/bb031f7198.js" crossorigin="anonymous"></script>
+
+        <title>Ελαιόλαδο</title>
+        
+        <link rel="stylesheet" href="css/styles.css">
+        
+       
+    </head>
+
+    <body>
+        
+        <header class="nav-header">
+            
+            <a href="#" class="logo">Τζώρτζης</a>
+                <ul class="nav-ul">
+                    <li class="nav-li"> <a class="nav-a" href="#"> Προϊόντα </a></li>
+                    <li class="nav-li"> <a class="nav-a" href="#"> Συνταγές </a></li>
+                    <li class="nav-li"> <a class="nav-a"  href="#"> Επικοινωνία </a> </li>
+                </ul>
+            
+        </header>
+
+        <main>
+            
+            <article>
+
+                <section class="hero-image">
+                    <section class="hero-text">
+                        <h1>Έξτρα Παρθένο Ελαιόλαδο </h1>
+                        <p>Πλούσια γεμάτη γεύση</p>
+                        <p>Π.Ο.Π. Ελαιόλαδο Αρκαδίας</p>
+                        <a href="#second-hero-image" class="hero-btn"><i class="fas fa-angle-double-down fa-2x"></i></a>
+                    </section>
+                </section>
+
+                <section class="hero-image second-section" id="second-hero-image">
+                    <section class="hero-text second-text">
+                        
+                        <h1>Μια Σταγόνα Τόσο Μοναδική </h1>
+                        <p>Χαρίστε πλούσια γεμάτη γεύση στο τραπέζι</p>
+                        <p>με το ελαιόλαδο της επιλογής σας.</p>
+                        <a href="#third-hero-image" class="hero-btn"><i class="fas fa-angle-double-down fa-2x"></i></a>
+                    </section>
+                </section>
+
+                <section class="hero-image third-section" id="third-hero-image">
+                    <section class="hero-text third-text">
+                        <h1>Εξαιρετικό μέχρι την τελευταία σταγόνα</h1>
+                        <p>Μοναδικές συνταγές, πλούσιες</p>
+                        <p>σε γεύση και ελληνική παράδοση.</p>
+                        <a href="#footer" class="hero-btn"><i class="fas fa-angle-double-down fa-2x"></i></a>
+                    </section>
+                </section>
+                <footer id="footer"> 
+                    <section class="footer-content">
+                        <img src="css/images/logo.png">
+                        <h3>ΤΖΏΡΤΖΗΣ</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, 
+                            ad voluptatem! Ea est rerum dolor dolorem distinctio sequi in quaerat, 
+                            obcaecati quasi similique laudantium enim, non mollitia beatae, odio molestiae?
+                        </p>
+                        <ul class="socials">
+                            <li> <a  href="#"> <i class="fa fa-facebook"></i> </a> </li>
+                            <li> <a  href="#"> <i class="fa fa-twitter"></i> </a> </li>
+                            <li> <a  href="#"> <i class="fa fa-instagram"></i> </a> </li>
+                        </ul>
+                    </section>
+                    <section class="footer-bottom">
+                        <p>Copyright &copy;2021 Tzortzis. Designed by <span>Sarantos Tzortzis.</span></p>
+                    </section>
+                </footer>
+                
+            </article>
+        </main>
+
+       
+
+
+
+
+        <script type="text/javascript">
+        window.addEventListener("scroll",function(){
+            var header = document.querySelector("header");
+            header.classList.add("sticky", window.scrollY > 10);
+            if (window.scrollY<=10){
+                header.classList.remove("sticky");
+            }
+        })
+        </script>
+    </body>
+</html>
