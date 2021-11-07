@@ -1,7 +1,7 @@
 Dynamic E-Bookstore<br/><br/>
 ✔️Implemented using Express API / NodeJS / Handlebars<br/>
-✔️Dynamic Website<br/>
-✔️Server/Client <br/>
+✔️Dynamic Website (Handlebars)<br/>
+✔️Server/Client (NodeJS) <br/>
 ✔️Fully Responsive<br/>
 ✔️Modern Design<br/><br/>
 -<b><ins>Index/Search page</ins></b> <br/>
