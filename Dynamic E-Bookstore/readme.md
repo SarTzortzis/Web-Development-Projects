@@ -6,6 +6,7 @@ Dynamic E-Bookstore<br/><br/>
 ✔️Modern Design<br/><br/>
 -<b><ins>Index/Search page</ins></b> <br/>
 ![](images/1.png)<br/>
+-<b><ins>Footer</ins></b> <br/>
 ![](images/2.png)<br/><br/>
 -<b><ins>Results / BookPage</ins></b> <br/>
 On this page, user can add/remove some books from his list<br/> 
