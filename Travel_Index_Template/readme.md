@@ -4,12 +4,12 @@ Travel Website Index Template
 ✔️Responsive for mobiles
 ✔️Modern Design
  
-![](previewImages/1.png)<br/><br/>
+![](images/1.png)<br/><br/>
 
-![](previewImages/2.png)<br/><br/>
+![](images/2.png)<br/><br/>
 
-![](previewImages/3.png)<br/><br/>
+![](images/3.png)<br/><br/>
 
-![](previewImages/4.png)<br/><br/>
+![](images/4.png)<br/><br/>
 
-![](previewImages/5.png)<br/><br/>
+![](images/5.png)<br/><br/>
