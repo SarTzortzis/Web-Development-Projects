@@ -12,3 +12,9 @@ Take a sneak 🤫 </br>
 
 <b> Login / Register Template </b><br/>
 ![](LoginRegisterTemplate/previewImages/first.png)<br/><br/>
+
+<b> Travel Website </b><br/>
+![](Travel_Index_Template/images/1.png)<br/><br/>
+
+<b> Travel Website </b><br/>
+![](Static%20Blogspot/previewImages/first.png)<br/><br/>
