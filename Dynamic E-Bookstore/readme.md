@@ -3,8 +3,9 @@ Dynamic E-Bookstore<br/><br/>
 ✔️Dynamic Website (Handlebars)<br/>
 ✔️Server/Client (NodeJS) <br/>
 ✔️Fully Responsive<br/>
-✔️Modern Design<br/><br/>
+✔️Modern Design<br/>
 <hr>
+
 -<b><ins>Index/Search page</ins></b> <br/>
 ![](images/1.png)<br/>
 -<b><ins>Footer</ins></b> <br/>
