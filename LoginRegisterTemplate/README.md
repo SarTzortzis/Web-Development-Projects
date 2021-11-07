@@ -6,6 +6,8 @@ Fully Responsive Login/Register form.
 ✔️Modern Design </br>
 ✔️Sign Up with Socials </br>
 
+<hr>
+
 ![](previewImages/first.png)
 ![](previewImages/second.png)
 ![](previewImages/third.png)
