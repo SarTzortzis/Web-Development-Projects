@@ -8,4 +8,7 @@ In this repository you can find some of the Website Templates that I've created.
 Take a sneak 🤫 </br>
 
 <b> Dynamic E-Bookstore </b><br/>
-![](Dynamic E-Bookstore/images/2.png)<br/><br/>
+![](Dynamic%20E-Bookstore/images/1.png)<br/><br/>
+
+<b> Login / Register Template </b><br/>
+![](LoginRegisterTemplate/previewImages/first.png)<br/><br/>
