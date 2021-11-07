@@ -16,5 +16,5 @@ Take a sneak 🤫 </br>
 <b> Travel Website </b><br/>
 ![](Travel_Index_Template/images/1.png)<br/><br/>
 
-<b> Travel Website </b><br/>
-![](Static%20Blogspot/previewImages/first.png)<br/><br/>
+<b> Static Blogspot </b><br/>
+![](Static%20Blogspot/previewImages/1st.png)<br/><br/>
