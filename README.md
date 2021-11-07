@@ -5,7 +5,7 @@ In this repository you can find some of the Website Templates that I've created.
 ✔️Responsive Websites </br>
 ✔️Modern Websites </br>
 <hr>
-Take a sneak 🤫 </br>
+Take a sneak 🤫 <br/><br/>
 
 <b> Dynamic E-Bookstore </b><br/>
 ![](Dynamic%20E-Bookstore/images/1.png)<br/><br/>
