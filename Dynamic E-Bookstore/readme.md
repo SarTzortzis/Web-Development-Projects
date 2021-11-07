@@ -5,7 +5,7 @@ Dynamic E-Bookstore<br/><br/>
 ✔️Fully Responsive<br/>
 ✔️Responsive for mobiles<br/>
 ✔️Modern Design<br/><br/>
--Index/Search page <br/>
+-<b>Index/Search page</b> <br/>
 ![](images/1.png)<br/>
 ![](images/2.png)<br/><br/>
 -Results / BookPage <br/>
