@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: "Popping",sans-serif;
+    
+}
+body{
+    background-color:#f7f7f7;
+}
+.wrapper{
+   
+    width:380px;
+    height:500px;
+    margin:100px auto;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;    border-radius: 18px;
+    background-color: white;
+}
+.cover{
+    height:160px;
+    
+}
+
+.cover img{
+    width:380px;
+    height:160px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.circle .logo{
+    width:153px;
+    height:153px;
+    display:block;
+    margin:0 auto 0 auto;
+    border-radius: 50%;
+    
+    float:left;
+    
+    margin-left:10px;
+    margin-top:-40px;
+}
+.id{
+    position:relative;
+    text-align: center;
+    margin-top:50px;
+}
+h5{
+    font-weight: 100;
+}
+.buttons{
+    position: relative; 
+    margin-top:5px;
+}
+button{  
+    padding:10px;
+    border:none;
+    background: #b9b9b5;
+    border-radius: 8px;
+    cursor:pointer;
+    margin-top:5px;
+}
+button:first-child{
+    width:15%;
+  
+    margin-left:25px;
+}
+button:first-child i{
+   display: block;
+   margin:0 auto 0 auto;
+  
+}
+button:nth-child(2){
+    width:15%;
+}
+button:last-child{
+    width:15%;
+}
+button:hover{
+    background: rgba(0,0,0,0.2);
+}
+hr{
+    position:relative;
+    top:-25px;
+    margin-top:-30px;
+}
+.details{
+    border-top:1px solid rgb(134, 134, 134);
+    padding-top:20px;
+    margin-top:40px;
+    
+    position:relative;
+    
+}
+.details ul{
+    list-style:none;
+}
+.details ul li{
+    margin-left:10px;
+}
+.details ul li i{
+    color:rgb(100, 98, 98);
+    padding:8px;
+}
