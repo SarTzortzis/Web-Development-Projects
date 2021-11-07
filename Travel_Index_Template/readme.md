@@ -3,6 +3,8 @@ Travel Website Index Template
 ✔️Fully Responsive<br/>
 ✔️Responsive for mobiles<br/>
 ✔️Modern Design<br/>
+
+<hr>
  
 ![](images/1.png)<br/><br/>
 
