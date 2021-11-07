@@ -6,7 +6,9 @@ Responsive Blogspot Template with Modern Index Design.
   Responsive for Mobiles ✔️ <br/>
   Animations on hover ✔️<br/>
   
-  <br/><br/>
+  <hr>
+  
+  
 Index:<br/><br/>
 ![](previewImages/1st.png)<br/><br/>
 
