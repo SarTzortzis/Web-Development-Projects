@@ -5,14 +5,14 @@ Dynamic E-Bookstore<br/><br/>
 ✔️Fully Responsive<br/>
 ✔️Responsive for mobiles<br/>
 ✔️Modern Design<br/><br/>
--<b><u>Index/Search page</u></b> <br/>
+-<b><ins>Index/Search page</ins></b> <br/>
 ![](images/1.png)<br/>
 ![](images/2.png)<br/><br/>
--<b><u>Results / BookPage</u></b> <br/>
+-<b><ins>Results / BookPage</ins></b> <br/>
 In this page, user can add/remove some books from his list<br/> 
 ![](images/3.png)<br/>
 ![](images/4.png)<br/><br/>
--<b><u>List/ MyListPage</u></b><br/>
+-<b><ins>List/ MyListPage</ins></b><br/>
 In this page, user can see the saved books. He can remove them, edit their preferences or even search <br/>
 for a specific book among his list.<br/>
 ![](images/5.png)<br/>
