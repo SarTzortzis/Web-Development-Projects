@@ -4,6 +4,7 @@ Dynamic E-Bookstore<br/><br/>
 ✔️Server/Client (NodeJS) <br/>
 ✔️Fully Responsive<br/>
 ✔️Modern Design<br/><br/>
+<hr>
 -<b><ins>Index/Search page</ins></b> <br/>
 ![](images/1.png)<br/>
 -<b><ins>Footer</ins></b> <br/>
