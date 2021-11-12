@@ -3,7 +3,7 @@ In this repository you can find some Website Templates that I've created.
 <br/>
 ✔️Dynamic Websites </br>
 ✔️Responsive Websites </br>
-💻 HTML, CSS, JS, Handlebars, Express API, NodeJs <br/>
+💻 HTML, CSS, JS, Handlebars, Express API, React <br/>
 <hr>
 Take a sneak 👀 <br/><br/>
 
