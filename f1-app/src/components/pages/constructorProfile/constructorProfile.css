@@ -1,0 +1,26 @@
+.consProf-hero-image img {
+  height: 100%;
+  width: 100%;
+}
+.consProf-section {
+  min-height: 10vh;
+}
+.consProf-div {
+  display: flex;
+  margin-top: 2%;
+  justify-content: space-around;
+}
+.spinner {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+}
+
+@media screen and (max-width: 1200px) {
+  .consProf-div {
+    flex-direction: column;
+  }
+  .consProf-hero-image img {
+    margin-top: 20%;
+  }
+}

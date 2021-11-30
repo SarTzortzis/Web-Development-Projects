@@ -1,0 +1,68 @@
+.profile-main {
+  background-color: aliceblue;
+}
+
+.profile-header {
+  display: block;
+  text-align: center;
+}
+.profile-header img {
+  margin-top: 10%;
+  border-radius: 100%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.profile-intro {
+  font-size: 25px;
+  margin-top: 15px;
+  text-transform: uppercase;
+  color: #000;
+  font-weight: 600;
+  font-family: "Oswald", sans-serif;
+}
+.profile-form {
+  margin-top: 5%;
+  padding: 25px;
+  display: grid;
+  grid-template-columns: 0.8fr 0.8fr 0.8fr;
+  grid-template-rows: auto;
+  grid-gap: 2rem;
+  justify-content: space-between;
+}
+
+.profile-input {
+  padding: 2px 2px 2px 10px;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  font-size: 25px;
+  background: transparent;
+  cursor: default;
+  float: right;
+  color: black;
+  font-weight: 400;
+  font-family: "Oswald", sans-serif;
+}
+.profile-span {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.table-component {
+  padding: 10px;
+  padding-bottom: 50px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .profile-form {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .profile-form {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+  .profile-header img {
+    margin-top: 25%;
+  }
+}

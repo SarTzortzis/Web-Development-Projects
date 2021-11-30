@@ -1,0 +1,118 @@
+.circuits-Container {
+  height: fit-content;
+  min-height: 100vh;
+  padding: 7% 0 5% 0;
+  background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.1));
+}
+.circuits-h1 {
+  text-align: center;
+  text-transform: uppercase;
+  width: 40%;
+  margin-left: 30%;
+  border-bottom: 3px solid red;
+}
+.circuits-h1 span {
+  color: #ff2626;
+}
+.circuits-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: space-between;
+  margin: 40px 20px 20px 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  background-color: white;
+  border-radius: 5px;
+  width: fit-content;
+  padding: 20px;
+  transition: 0.2s ease-in;
+  width: 70%;
+  margin-left: 15%;
+}
+.circuits-row:hover {
+  transition: 0.4s ease-out;
+  transform: scale(1.03);
+  cursor: default;
+}
+
+.circuits-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px 0 0 5px;
+}
+.circuits-desc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+  text-align: center;
+  height: 100%;
+  padding-left: 20px;
+  font-size: 22px;
+}
+.circuit-name {
+  font-size: 26px;
+  font-weight: bold;
+  border-bottom: 2px solid #333;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+.circuit-country {
+  font-weight: bold;
+}
+.fa-map-pin {
+  color: #ff2626;
+  padding-right: 5px;
+}
+.fa-road {
+  color: #555;
+  padding-right: 5px;
+}
+
+.circuits-map {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+@media only screen and (max-width: 1200px) {
+  .circuits-Container {
+    padding: 0;
+    padding-top: 10%;
+  }
+  .circuits-row {
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .circuits-Container {
+    padding: 0;
+    padding-top: 12%;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .circuits-Container {
+    padding: 0;
+    padding-top: 25%;
+  }
+  .circuits-row {
+    width: fit-content;
+    padding: 0;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.7fr 0.7fr 0.7fr;
+    margin: 3.5%;
+    margin-top: 10%;
+  }
+  .circuits-desc {
+    align-items: center;
+  }
+  .circuits-map {
+    margin-top: 5%;
+    width: 100%;
+  }
+}
