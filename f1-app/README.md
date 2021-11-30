@@ -20,7 +20,7 @@
 <img src="Screenshots/7.png"><br/><br/>
 <img src="Screenshots/8.png"><br/><br/>
 <img src="Screenshots/8_9.png"><br/><br/>
-
+## Circuits Page
 ### Along with standings, there is a <b>Circuits</b> page where there are static data for some F1 circuits. <br/>
 <img src="Screenshots/10.png"><br/><br/>
 <img src="Screenshots/10_11.png"><br/><br/>
