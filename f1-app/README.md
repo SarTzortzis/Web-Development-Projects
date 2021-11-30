@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Formula 1 Web Application
+✔️ Fully responsive <br/>
+✔️ React <br/>
+✔️ MUI <br/>
+✔️ API <br/>
+## F1 standings is a web application that uses <b>Ergast Api</b> (http://ergast.com/mrd/). <br/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Homepage
+<img src="Screenshots/1.png"><br/><br/>
 
-## Available Scripts
+<img src="Screenshots/2.png"><br/><br/>
+<img src="Screenshots/2_3.png"><br/><br/>
+### User is able to change between <b>Drivers</b> standings table and <b>Constructors</b> standings table or even between different season (2010-current).<br/>
+<img src="Screenshots/3.png"><br/><br/>
+<img src="Screenshots/4.png"><br/><br/>
+### When he clicks on a <b>Driver</b> he is being navigated to <b>Drivers Profile Page</b> where he can see more details about the driver and even a table which shows the driver's standings for the period that user chose on the previous table.<br/>
+<img src="Screenshots/5.png"><br/><br/>
+<img src="Screenshots/6.png"><br/><br/>
+### When he clicks on a <b>Constructor</b> he is being navigated to <b>Constructos Profile Page</b> where he can see more details about the constructor and even a table which shows the constructor's standings for the period that user chose on the previous table.<br/>
+<img src="Screenshots/7.png"><br/><br/>
+<img src="Screenshots/8.png"><br/><br/>
+<img src="Screenshots/8_9.png"><br/><br/>
 
-In the project directory, you can run:
+### Along with standings, there is a <b>Circuits</b> page where there are static data for some F1 circuits. <br/>
+<img src="Screenshots/10.png"><br/><br/>
+<img src="Screenshots/10_11.png"><br/><br/>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### As mentioned, this application is fully responsive for smaller screens and mobile devices<br/>
+<img src="Screenshots/11.png"><br/><br/>
+<img src="Screenshots/12.png"><br/><br/>
+<img src="Screenshots/res1.png"><br/><br/>
+<img src="Screenshots/res2.png"><br/><br/>
+<img src="Screenshots/res3.png"><br/><br/>
+<img src="Screenshots/res4.png"><br/><br/>
