@@ -1,4 +1,5 @@
 # Formula 1 Web Application
+<b> In order to run the App, first you need to execute "npm install" and then "npm start" </b> <br/>
 ✔️ Fully responsive <br/>
 ✔️ React <br/>
 ✔️ MUI <br/>
