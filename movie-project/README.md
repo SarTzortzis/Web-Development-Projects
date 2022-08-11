@@ -1,5 +1,5 @@
 # Formula 1 Web Application
-<b> In order to run the App, first you need to execute "npm install" and then "npm start" </b> <br/>
+<b> In order to run the App, first you need to execute "npm install" and then "npm start" ( Speed coding, implemented within a day ) </b> <br/>
 ✔️ Fully responsive <br/>
 ✔️ React <br/>
 ✔️ Hooks (Context, State, useEffect) <br/>
