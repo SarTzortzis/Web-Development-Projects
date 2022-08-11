@@ -7,6 +7,9 @@ In this repository you can find some Website Templates that I've created.
 <hr>
 Take a sneak 👀 <br/><br/>
 
+## Movie Data Base Web Application (React, MUI, API)<br/>
+<img src="movie-project/screenshots/movie_preview1.png"><br/><br/>
+
 ## F1 Web Application (React, MUI, API)<br/>
 <img src="f1-app/Screenshots/1.png"><br/><br/>
 
